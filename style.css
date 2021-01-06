@@ -1,0 +1,238 @@
+body{
+  margin: 0px;
+  padding: 0px;
+}
+.navbar {
+  margin: 0 50px 0 0;
+}
+.navbar li {
+  float: right;
+  color: #3C3C3C;
+  text-align: center;
+  font-size: 17px;
+  list-style-type: none;
+  margin-right: 30px;
+}
+
+.heading-section h1 {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 60px;
+  line-height: 80px;
+  color: #363958;
+  margin-top: 91px;
+}
+.all-section-btn {
+  width: 170px;
+  height: 60px;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  font-size: 20px;
+  background: #FF8367;
+}
+#heading-section-head {
+  color: #FF8367;
+}
+.heading-section-half p {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+  color: #3E3E3E;
+  margin-bottom: 33px;
+  margin-top: -40px;
+}
+.heading-section-half{
+  float: left;
+  overflow: hidden;
+  width: 40%;
+  margin: 5%;
+}
+.heading-section-half img{
+  width: 100%;
+}
+
+.second-section-about h1 {
+  margin-bottom: 60px;
+  margin-top: 85px;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 48px;
+  color: #363958;
+}
+.working-projects-option {
+  width: 370px;
+  height: 374px;
+  background: #FFFFFF;
+  box-shadow: 0px 6.5812px 19.7436px rgba(0, 0, 0, 0.07);
+  border-radius: 19.7436px;
+  margin: 26px;
+}
+.working-projects-option h1 {
+  color: #363958;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 28px;
+}
+.working-projects-option p {
+  color: #6C6C6C;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 28px;
+}
+.three-card-section img{
+  width: 343.54px;
+  height: 213.23px;
+  margin: auto;
+  padding: 13px;
+}
+.three-card-section {
+  clear: both;
+  background-color: #E5E5E5;
+  height: 650px;
+}
+.box-three-body {
+  padding: 0 13px;
+}
+.box-three {
+  display: flex;
+}
+.card-project-heading {
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 48px;
+  line-height: 48px;
+  text-align: center;
+  padding-top: 100px;
+}
+#last {
+  color: #F46060;
+}
+.icon-section{
+  margin-bottom: 70px;
+}
+.work-inquiry-section{
+  background-image: url("./img/shapes/inquiry.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin: 101px auto;
+  width: 906px;
+  height: 225px;
+  border-radius: 30px;
+}
+.working-inquiry-half{
+  float: left;
+}
+.working-inquiry-half h1{
+  font-family: 'Bebas Neue';
+  font-style: normal;
+  font-weight: bold;
+  font-size: 64px;
+  line-height: 64px;
+  color: #FFFFFF;
+  padding: 27px;
+  margin-left: 66px;
+}
+.all-section-btn-work{
+  background: #FF8063;
+  color: white;
+  font-size: 16px;
+  width: 134px;
+  height: 60px;
+  border: none;
+  border-radius: 10px;
+  margin: 85px;
+  margin-left: 283px;
+}
+.icon-section h1{
+  font-family: 'Roboto';
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+text-align: center;
+color: #363958;
+}
+.icon-section h4{
+  font-family: 'Bebas Neue';
+font-style: normal;
+font-weight: bold;
+font-size: 24px;
+line-height: 24px;
+color: #696871;
+text-align: center;
+}
+.three-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.three-icon img{
+  width: 40px;
+  height: 40px;
+  padding: 10px;
+}
+.footer{
+  background: rgb(0, 109, 128);
+  height: 300px;
+}
+
+.experience-area{
+  background-image: url("./img/shapes/exp-bg.png");
+  background-repeat: no-repeat;
+  background-position: left;
+  height: 500px;
+  margin-top: 100px;
+}
+.first-half{
+  width: 25%;
+  float: left;
+  margin-left: 5%;
+  padding-left: 1%;
+  margin-bottom: 80px;
+}
+.experience-area h2{
+  text-align: center;
+  font-weight: 500;
+  font-size: 40px;
+  padding-bottom: 40px;
+}
+.head-highlight{
+  color: orange;
+}
+.blog{
+  box-shadow: 10px 10px 40px grey;
+  border-radius: 5px;
+  height: 80%;
+  background-color: white;
+}
+#full-stack{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, lightsalmon, tomato);
+  border-image-slice: 1;
+}
+
+#baby-web{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, blue, cyan);
+  border-image-slice: 1;
+}
+#andro{
+  border-left: 7px solid;
+  border-image: linear-gradient(180deg, blue, cyan);
+  border-image-slice: 1;
+}
+#foot{
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.733);
+  margin-top: 120px;
+  text-align: center;
+}
